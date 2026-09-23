@@ -94,19 +94,11 @@ The script will output whether the URL is classified as phishing or legitimate.
 ## RandomForest Classifier
 RandomForest is a robust ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes (for classification) or mean prediction (for regression) of the individual trees. It excels in handling large datasets with high dimensionality and provides insights into feature importance.
 
-## Contributors
-### [Shamanth M Hiremath](https://github.com/ShamanthHiremath)
-Email: shamanth.hiremath.101@gmail.com
-### [Sanchit Vijay](https://github.com/sanchiitvijay)
-Email: sanchiitvijay@gmail.com
-### [Trijal Shinde](https://github.com/trijal18)
-Email: trijal18@gmail.com
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgments
-Thanks to [Akash Kumar](https://www.kaggle.com/akashkr) for providing the [phishing URL dataset](https://www.kaggle.com/datasets/akashkr/phishing-website-dataset).
 
 ## Future Work
 1. Implement real-time URL checking API
